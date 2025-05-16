@@ -10,7 +10,7 @@ import plot_function  # your plotting functions (make sure they return matplotli
 import base64
 import re
 from datetime import datetime
-
+nltk.download('stopwords')
 
 # Set background image
 def set_bg_from_local(img_path):
