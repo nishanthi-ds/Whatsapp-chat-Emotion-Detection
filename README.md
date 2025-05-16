@@ -5,7 +5,8 @@ This project detects emotions in WhatsApp chat conversations using an LSTM-based
 
 The model is trained to classify messages into six emotions: Happy, Sad, Angry, Fear, Love and Surprise
 
-Demo Live Link: https://car-sales-forecasting-4qvmcmb9tdf6pe8kamqtwj.streamlit.app
+Demo Live Link: `https://car-sales-forecasting-4qvmcmb9tdf6pe8kamqtwj.streamlit.app`
+
 ---
 
 ## 1. Emotion Detection Model Pipeline
