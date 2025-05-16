@@ -57,7 +57,7 @@ Demo Live Link: `https://car-sales-forecasting-4qvmcmb9tdf6pe8kamqtwj.streamlit.
 ### 2.5 Streamlit Web App
 - Fully interactive web app created using Streamlit.
 - Hosted app link (example):  
-  https://car-sales-forecasting-4qvmcmb9tdf6pe8kamqtwj.streamlit.app
+  `https://car-sales-forecasting-4qvmcmb9tdf6pe8kamqtwj.streamlit.app`
 
 ---
 
