@@ -1,0 +1,8 @@
+pandas
+numpy
+ipykernel
+datasets
+tensorflow
+scikit-learn
+matplotlib
+streamlit
