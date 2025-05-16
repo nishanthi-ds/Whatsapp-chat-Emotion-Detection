@@ -60,8 +60,11 @@ This project detects emotions in WhatsApp chat conversations using an LSTM-based
 
 ## Usage
 
-1. Open the app 
-   
-3. Upload your exported Whatsapp chat text file.
+1. Open the app   
+2. Upload your exported Whatsapp chat text file.
+3. Explore the type Emotion in the Chat history.
 
-4. Explore the type Emotion in the Chat history.
+![Chat Emotion Detection](Images/download.png)
+![Chat Emotion Detection](Images/demo.png)
+
+   
