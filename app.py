@@ -12,6 +12,7 @@ import re
 from datetime import datetime
 import nltk
 nltk.download('stopwords')
+nltk.download('wordnet')
 
 # Set background image
 def set_bg_from_local(img_path):
